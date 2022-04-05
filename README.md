@@ -1,4 +1,4 @@
-[![Miłosz, Full-stack developer](https://assets.selleo.com/banners/mzajonc.svg)](https://selleo.com/)
+[![Miłosz, Front-end developer](https://assets.selleo.com/banners/mzajonc.svg)](https://selleo.com/)
 
 <!--
 **ZajoncM/ZajoncM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
